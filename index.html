@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Gif World Travel</title>
+  <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+</head>
+
+<body>
+
+<!-- Top Div: Gif Buttons and Header -->
+  <div class="jumbotron">
+    <h1 style="color:white;"> World Travel Tour </h1>
+      <h3> <center>Travel the World with Gifs - <i> click on button then image to animate gif</i></center></h3>
+       <div id="travel-buttons"></div>
+  </div>
+
+<!-- Small Right Div: Form subimssion -->
+  <form id="travel-form">
+    <h2><legend> World Database: </legend></h2>
+    <label for="travel-input"> <u>Add Your Own Gif Travel</u> - <i>button will appear on the top for you to travel, click once added!</i></label>
+    <input type="text" id="travel-input"><br>
+    <input id="add-travel" type="submit" value="Travel" class="btn btn-primary"> <strong>Need help deciding? Click Image!</strong>
+
+<!--explore gif photo -->
+      <a href="https://www.teetravelsworld.com"><img src="assets/images/travel.png" class="auth-image" alt="explore" width="350" height="225">
+
+<!--  Copyright Div -->
+    <div id="footer" class="container">
+      <h4 id="copyright">&copy; Copyright 2018 Terry Kim</h4>
+    </div>
+  </form>
+
+<!-- Main Left Div: Gifs Display  -->
+  <div class="container">
+    <div id="travels"></div>
+  </div>
+
+
+<!-- javascript file link -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="js/javascript.js"></script>
+</body>
+
+</html>
