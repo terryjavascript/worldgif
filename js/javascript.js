@@ -36,6 +36,7 @@ $(document).ready(function() {
       method: "GET"
     })
     .done(function(response) {
+      console.log(response);//console test
       var results = response.data;
 
       for (var i = 0; i < results.length; i++) {
