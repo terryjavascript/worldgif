@@ -12,13 +12,13 @@ On this GIPHY Project, I've created a space for users to stubmle upon places to 
 
 # APP FUNCTIONS
 
-This application allows users to click and load pre-assigned gifs (top buttons). It also allows users to add their own places to travel through the giphy database. Users are able to animate the gifs by clicking once and also stop the gifs by clicking once again.  
+This application allows users to click and load pre-assigned gifs (top buttons). It also allows users to add their own places to travel through the giphy database. Users are able to animate the gifs by clicking once, and also stop the gifs by clicking once again.  
 
 # OBSTACLES
 
 The main obstable for this project was calling the GIPHY API and using jQuery to change the HTML and CSS attribute. Adding new buttons and creating function to animate gifs with onlicks were challenging, however it became easier when sketching the overall application. 
 
 
-# Copyright
+# COPYRIGHT
 
 Terry Kim, 2018 - All rights reserved. 
