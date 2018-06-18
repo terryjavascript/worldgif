@@ -2,6 +2,9 @@
 <img align="center" src="assets/images/giphygif.gif" width="100%" alt="Giphy Gif"/>
 </p>
 
+#HEROKU APP
+https://worldgif.herokuapp.com/
+
 # WHAT IS A GIF?
 
 [GIPHY](http://www.giphy.com) is an animated [GIF](http://en.wikipedia.org/wiki/Graphics_Interchange_Format) search engine. The GIPHY API is a series of JSON read endpoints that allow you to integrate the features of GIPHY's search engine into your project or app. 
@@ -12,7 +15,7 @@ On this GIPHY Project, I've created a space for users to stubmle upon places to 
 
 # APP FUNCTIONS
 
-This application allows users to click and load pre-assigned gifs (top buttons). It also allows users to add their own places to travel through the giphy database. Users are able to animate the gifs by clicking once, and also stop the gifs by clicking once again.  
+This application allows users to click and load pre-assigned gifs (top buttons). It also allows users to add their own places to travel through the giphy database. Users are able to animate the gifs by clicking once, and also stop the gifs by clicking once again. Contents rating for gifs are also displayed on top of the image. 
 
 # OBSTACLES
 
