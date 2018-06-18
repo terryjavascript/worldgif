@@ -2,7 +2,7 @@
 <img align="center" src="assets/images/giphygif.gif" width="100%" alt="Giphy Gif"/>
 </p>
 
-#HEROKU APP
+# HEROKU APP
 https://worldgif.herokuapp.com/
 
 # WHAT IS A GIF?
